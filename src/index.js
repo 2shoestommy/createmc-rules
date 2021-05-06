@@ -6,7 +6,7 @@ const Redirect = () => {
     window.location.replace('https://docs.google.com/document/d/1oTaS_toySx46-1URFQiCpjVnruMHqjtLoPi1AnYFMU0/edit?usp=sharing')
   })
   
-  return <h1>test</h1>
+  return <h1>CreateMC Rules</h1>
 }
 
 ReactDOM.render(<Redirect />, document.getElementById('root'))
